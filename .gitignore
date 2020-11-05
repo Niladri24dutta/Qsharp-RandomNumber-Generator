@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SampleQSharpApp/DesignTimeBuild
+/.vs/SampleQSharpApp/v16
+/SampleQSharpApp/bin/Debug/netcoreapp3.1
+/SampleQSharpApp/obj
