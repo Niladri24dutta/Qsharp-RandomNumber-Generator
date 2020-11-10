@@ -6,3 +6,9 @@
 /.vs/SampleQSharpApp/v16
 /SampleQSharpApp/bin/Debug/netcoreapp3.1
 /SampleQSharpApp/obj
+/ExploringSuperposition/bin/Debug/netcoreapp3.1
+/ExploringSuperposition/obj
+/ExploringInterference/bin/Debug/netcoreapp3.1
+/ExploringInterference/obj
+/ExploringEntanglement/bin/Debug/netcoreapp3.1
+/ExploringEntanglement/obj

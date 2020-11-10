@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleQSharpApp", "SampleQSharpApp\SampleQSharpApp.csproj", "{B8F01006-4200-4E00-A038-D1E261FC28C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleQSharpApp", "SampleQSharpApp\SampleQSharpApp.csproj", "{B8F01006-4200-4E00-A038-D1E261FC28C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExploringSuperposition", "ExploringSuperposition\ExploringSuperposition.csproj", "{BC52D608-58ED-45DD-91FE-F20B58D26E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploringInterference", "ExploringInterference\ExploringInterference.csproj", "{F90C5B63-AE81-4D3E-8948-18594ACD777F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploringEntanglement", "ExploringEntanglement\ExploringEntanglement.csproj", "{27769558-B0E1-42EF-B021-F07EB04C49F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{B8F01006-4200-4E00-A038-D1E261FC28C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8F01006-4200-4E00-A038-D1E261FC28C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8F01006-4200-4E00-A038-D1E261FC28C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC52D608-58ED-45DD-91FE-F20B58D26E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC52D608-58ED-45DD-91FE-F20B58D26E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC52D608-58ED-45DD-91FE-F20B58D26E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC52D608-58ED-45DD-91FE-F20B58D26E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90C5B63-AE81-4D3E-8948-18594ACD777F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90C5B63-AE81-4D3E-8948-18594ACD777F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90C5B63-AE81-4D3E-8948-18594ACD777F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90C5B63-AE81-4D3E-8948-18594ACD777F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27769558-B0E1-42EF-B021-F07EB04C49F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27769558-B0E1-42EF-B021-F07EB04C49F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27769558-B0E1-42EF-B021-F07EB04C49F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27769558-B0E1-42EF-B021-F07EB04C49F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
